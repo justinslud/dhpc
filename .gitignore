@@ -1,3 +1,9 @@
+# Other
+data/
+scripts/
+other/
+.vscode/
+
 # Prerequisites
 *.d
 
